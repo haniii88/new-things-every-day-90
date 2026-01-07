@@ -1,4 +1,4 @@
-/* New Things Every Day — Da 90 */
+/* New Things Every Day — Day 90 */
 /* Generates a daily execution log with a random progress value */
 
 function dailyLog90() {
